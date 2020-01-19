@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in 數學1 mm-10
+
 int main(){
     float num;
     while(scanf("%f",&num)!=EOF){
