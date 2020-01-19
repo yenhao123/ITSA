@@ -9,8 +9,10 @@
 
 int main(){
     int a,b,flag=0;
+    //輸入兩對值
     scanf("%d",&a);
     scanf("%d",&b);
+    //輾轉相除法
     while(a!=0 && b!=0){
         if(a>b){
                 a=a%b;
@@ -19,6 +21,7 @@ int main(){
         }
         printf("a:%d b:%d\n",a,b);
     }
+    //output
     if(a==0)printf("%d\n",b);
     else printf("%d\n",a);
 }
