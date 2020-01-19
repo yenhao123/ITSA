@@ -9,7 +9,9 @@
 
 int main(){
     int a,b;
+    //input
     scanf("%d %d",&a,&b);
+    //輾轉相除法
     while(a!=0 && b!=0){
         if(a>b){
             a=a%b;
@@ -17,6 +19,7 @@ int main(){
             b=b%a;
         }
     }
+    //output
     if(a!=0)printf("%d\n",a);
     else printf("%d\n",b);
 }
