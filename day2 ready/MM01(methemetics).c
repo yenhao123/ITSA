@@ -5,7 +5,7 @@
 #define TRUE 1
 #define FALSE 0
 
-// in methemetics 1-01
+// in 數學1 mm-01
 
 int main(){
     int h1,h2,h3;
