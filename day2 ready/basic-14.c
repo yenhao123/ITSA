@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in basic-14
+
 int main(){
     char word[100];
     int i,j,flag,len,num[100];
