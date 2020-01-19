@@ -22,6 +22,7 @@ int main(){
     while(scanf("%d %d",&a,&b)!=EOF){
         //找離原點的距離 a^2+b^2 根號 
         radius=func(a,b);
+        //
         if(radius>200)printf("outside\n");
         else printf("inside\n");
     }
