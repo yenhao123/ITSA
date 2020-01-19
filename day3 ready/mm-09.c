@@ -23,8 +23,11 @@ int main(){
     int num;
     long long total;
     while(scanf("%d",&num)!=EOF){
+        //initail
         total=0;
+        //func
         total=func(num);
+        //output
         if(total!=0)printf("%ld\n",total);
         else printf("Value of more than 31\n");
     }
