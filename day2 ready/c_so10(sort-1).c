@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in 排序1 
+
 int ary[100];
 void bubbleSort(int num){
     int tmp;
