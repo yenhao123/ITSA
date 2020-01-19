@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in 數學1 mm_03
+
 int main(){
     int a,b;
     while(scanf("%d %d",&a,&b)!=EOF){
