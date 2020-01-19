@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in basic-4
+
 int main(){
     int i,j,start1,start2,end1,end2,hour,min,total=0,sum=0;
 
