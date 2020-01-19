@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in basic-10
+
 int main(){
     int a,b,flag=0;
     scanf("%d",&a);
