@@ -7,7 +7,7 @@
 
 //in 數學1 mm-09
 
-//算2的n次方 大於31不用算 記得開long long
+//算2的n次方 大於31忽略 大小開long long
 long long func(int num){
     long long total=2;
     if(num>31)return FALSE;
