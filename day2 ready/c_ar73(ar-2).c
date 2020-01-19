@@ -8,6 +8,7 @@
 //in 陣列2 c_ar73
 
 int total[100];
+//要列出每一項兔子數列 所以不使用遞迴
 int func(int n){
     total[0]=1;total[1]=1;
     for(int i=2;i<n;i++){
