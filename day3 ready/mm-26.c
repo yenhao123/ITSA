@@ -5,7 +5,7 @@
 #define TRUE 1
 #define FALSE 0
 
-//in ¼Æ¾Ç1 mm26
+//in æ•¸å­¸1 mm26
 
 int main(){
     int i,num;
