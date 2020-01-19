@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in basic-21
+
 int main(){
     float a,b,b1,b2,b3,b4,b5,b6,b7,b8,b9,max,min,num[100];
     scanf("%f %f %f %f %f %f %f %f %f %f",&a,&b1,&b2,&b3,&b4,&b5,&b6,&b7,&b8,&b9);
