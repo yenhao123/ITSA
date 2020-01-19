@@ -5,7 +5,7 @@
 #define TRUE 1
 #define FALSE 0
 
-//in ¼Æ¾Ç1 mm14
+//in æ•¸å­¸1 mm14
 int main(){
     int num,days,hours,mins,sec;
     scanf("%d",&num);
