@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in basic-6
+
 int main(){
     int num;
     while(scanf("%d",&num)!=EOF){
