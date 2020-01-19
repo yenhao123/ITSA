@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in basic-12
+
 int total=0;
 int func(int num){
     if(num==0 || num==1)return num+1;
