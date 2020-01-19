@@ -5,12 +5,13 @@
 #define TRUE 1
 #define FALSE 0
 
-//in �ƾ�1 mm-21
+//in 數學1 mm-21
 int main(){
     int i,num;
     long long total=1;
     while(scanf("%d",&num)!=EOF){
         total=1;
+        //算階乘
         for(i=1;i<=num;i++){
             total=total*i;
         }
