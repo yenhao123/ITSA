@@ -15,7 +15,7 @@ int main(){
 
     hour=end1-start1;
     min=end2-start2;
-
+    //convert total mins
     if(min>=0){
         total=(hour*60+min);
     }else{
@@ -23,7 +23,7 @@ int main(){
         min+=60;
         total=(hour*60+min);
     }
-
+    //convert sum money
     if(total<120){
         sum+=(total/30)*30;
     }else{
