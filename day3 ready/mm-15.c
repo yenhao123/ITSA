@@ -5,7 +5,7 @@
 #define TRUE 1
 #define FALSE 0
 
-//in ¼Æ¾Ç1 mm15
+//in æ•¸å­¸1 mm15
 int main(){
     int a,b;
     while(scanf("%d %d",&a,&b)!=EOF){
