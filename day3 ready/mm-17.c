@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in 數學1 mm-17
+
 int main(){
     int a,b;
     scanf("%d %d",&a,&b);
