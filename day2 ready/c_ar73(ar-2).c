@@ -5,6 +5,8 @@
 #define TRUE 1
 #define FALSE 0
 
+//in 陣列2 c_ar73
+
 int total[100];
 int func(int n){
     total[0]=1;total[1]=1;
