@@ -25,11 +25,14 @@ int main(){
     int num;
     scanf("%d",&num);
 
+    //input
     for(int i=0;i<num;i++){
         scanf("%d",&ary[i]);
     }
+    //bubble sort Sorting
     bubbleSort(num);
 
+    //output
     for(int i=0;i<num;i++){
         if(i==num-1)printf("%d\n",ary[i]);
         else printf("%d ",ary[i]);
