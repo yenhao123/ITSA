@@ -6,6 +6,7 @@
 #define FALSE 0
 
 //in 數學1 mm-21
+
 int main(){
     int i,num;
     long long total=1;
